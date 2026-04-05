@@ -1,7 +1,6 @@
 ## 👋 Hello World, I'm Gal
 
 Senior AI Engineer at [**Elementor**](https://elementor.com), helping build the future of web creation with AI.
----
 
 ### Things I enjoy building with
 
